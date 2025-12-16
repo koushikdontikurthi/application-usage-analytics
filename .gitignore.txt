@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+data.csv
+app_usage_breakdown.csv
+region_performance.csv
+report_*.csv
